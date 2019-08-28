@@ -74,5 +74,5 @@ or to stage all of the changes -> select stage all changes
 click 'check mark' to commit
 connect with git
 
-can change terminal to git bash
+can change terminal to git bash, to give the infor
 '''
