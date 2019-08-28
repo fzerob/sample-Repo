@@ -75,4 +75,6 @@ click 'check mark' to commit
 connect with git
 
 can change terminal to git bash, to give the infor
+How to change the terminal: https://code.visualstudio.com/docs/editor/integrated-terminal
+
 '''
